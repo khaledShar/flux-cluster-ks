@@ -7,3 +7,5 @@ flux bootstrap github \
   --branch=main \
   --path=clusters/local \
   --personal
+
+# To customized it with Terraform use: https://github.com/khaledShar/keycloak-terraform
